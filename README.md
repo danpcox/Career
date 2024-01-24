@@ -2,6 +2,7 @@
 ## Info about my career as a software developer / engineering leader
 ### General Philosophies
 - There is always room for fun.  Humor (at the right time) will decrease stress
+- Build trust as soon as possible and continually demonstrate trust, without it, you won't succeed
 - Interview. On both sides of the table, the experience is invaluable and the skills you hone are used in every day life
 - Bring up issues as soon as possible.  I would rather fail early and loudly than surprise people later on before things can be corrected / modified
 - Overcommunicate - failures will happen, a failure by not communicating effectively is avoidable and embarassing

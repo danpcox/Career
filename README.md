@@ -9,7 +9,6 @@
 - Be bold. Don't have goals you know you will meet, have goals that stretch you so you grow
 - Always be growing. The best way to do that is to get outside of your comfort zone.  Do that just enough and the zone grows with you
 - Lack of autonomy will stifle innovation, if you can't take risks you can't grow and learn
-- 
 
 ### Leadership Philosphies
 - Don't bring to your team something you just discovered, digest it and see how it can improve your team
@@ -22,7 +21,8 @@
 
 ### Technical Philosophies
 - Develop something fast, not perfectly.  You learn more by a feature's use than the coding style to develop it
-- 
+- Don't set out to learn a new technology unless you have a reason to use it
+- Become a master at one technology rather than dabble in many, you will code and deploy much faster the more you know the intracacies of your chose environment
 
 ### Quotes I reference
 - “A good plan, violently executed now, is better than a perfect plan next week” — George Patton

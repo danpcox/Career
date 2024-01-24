@@ -21,12 +21,15 @@
 - Don't hesitate to ask questions if you don't understand. Don't be afraid to look ignorant, odds are someone else in the room is hesitant to ask the same question
 - The Culture is so important, it needs to embody (at every level): risk taking, autonomy, accountability, recognition, and incentivization
 - Never hire the brilliant jerk. The team and culture matter more than someone brought on to help as an expert
+- The front-line manager is one of the hardest roles, they are leading the charge and coding / architecting.  I have great respect for this position
+
 
 ### Technical Philosophies
 - Being able to code is a superpower, it's easy to forget others don't know how / can't
 - Develop something fast, not perfectly.  You learn more by a feature's use than the coding style to develop it
 - Don't set out to learn a new technology unless you have a reason to use it
 - Become a master at one technology rather than dabble in many, you will code and deploy much faster the more you know the intricacies of your chose environment
+- Front end development is just as important as back-end. At Amazon I was looked down on because I liked front end, if the UI isn't working you won't get any RPS for your backend!
 
 ### Quotes I reference
 - “A good plan, violently executed now, is better than a perfect plan next week” — George Patton

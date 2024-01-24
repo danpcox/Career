@@ -8,6 +8,8 @@
 - Ensure that any process / methodology enables you and that you aren't in turn simply enabling the process (e.g. scrum for scrum's sake)
 - Be bold. Don't have goals you know you will meet, have goals that stretch you so you grow
 - Always be growing. The best way to do that is to get outside of your comfort zone.  Do that just enough and the zone grows with you
+- Lack of autonomy will stifle innovation, if you can't take risks you can't grow and learn
+- 
 
 ### Leadership Philosphies
 - Don't bring to your team something you just discovered, digest it and see how it can improve your team
@@ -16,6 +18,7 @@
 - The people you support are humans.  You are human.  Take time to acknowledge everybody's humanity and it will lead to more empathy and thoughtfulness
 - Don't be afraid to be wrong.  Acknowledge and own your mistakes.  Taking responsibility (especially publically) drives respect/loyalty significantly
 - Don't hesitate to ask questions if you don't understand. Don't be afraid to look ignorant, odds are someone else in the room is hesitant to ask the same question
+- The Culture is so important, it needs to embody (at every level): risk taking, autonomy, accountability, recognition, and incentivization
 
 ### Technical Philosophies
 - Develop something fast, not perfectly.  You learn more by a feature's use than the coding style to develop it
@@ -27,3 +30,4 @@
 - "First get the right people on the bus, then figure out where you are going" — Jim Collins
 - "The greatest predictor of success is grit." — Angela Duckworth
 - "Never attribute to malice that which is adequately explained by stupidity." — Robert J. Hanlon (Hanlon's Razor)
+- "Culture eats strategy for breakfast." – Peter Drucke

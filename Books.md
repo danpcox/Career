@@ -1,21 +1,25 @@
 # Books
 ## Books for leadership
 - The one minute manager
-- Grit
-- Who moved my cheese
-- The art of war
-- The 5 dysfunctions of a team
-- Good to Great: Why some companies make the leap and others don't
-- Thinking, Fast and slow
-- The 4 hour work week
-- The 7 habits of highly effective people
+- Grit - Angela Duckworth
+- Drive - Daniel Pink
+- Who moved my cheese - Spencer Johnson
+- The art of war - Sun Tau
+- The 5 dysfunctions of a team - Patrick Lencioni
+- Good to Great: Why some companies make the leap and others don't - James C. Collins
+- Thinking, Fast and slow - Daniel Kahneman
+- The 4 hour work week - Tim Ferriss
+- The 7 habits of highly effective people - Stephen Covey
 - 
 
 ## Books I read in 2024
 - Grit - Angela Duckworth
-- The never wars
+- The never wars - David Pedreira
+- Who moved my cheese - Spencer Johnson
 
-##
+
+
+## The 7 habits of highly effective people
     Be Proactive: Take control of your actions and choices, rather than reacting to external circumstances.
 
     Begin with the End in Mind: Define your goals and values, and work towards them with a clear vision of what you want to achieve.

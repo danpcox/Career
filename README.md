@@ -18,6 +18,7 @@
 - Don't be afraid to be wrong.  Acknowledge and own your mistakes.  Taking responsibility (especially publically) drives respect/loyalty significantly
 - Don't hesitate to ask questions if you don't understand. Don't be afraid to look ignorant, odds are someone else in the room is hesitant to ask the same question
 - The Culture is so important, it needs to embody (at every level): risk taking, autonomy, accountability, recognition, and incentivization
+- Never hire the brilliant jerk. The team and culture matter more than someone brought on to help as an expert
 
 ### Technical Philosophies
 - Develop something fast, not perfectly.  You learn more by a feature's use than the coding style to develop it

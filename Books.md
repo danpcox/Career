@@ -17,7 +17,8 @@
 - The never wars - David Pedreira
 - Who moved my cheese - Spencer Johnson
 
-
+## Books I am currently Reading (fun or learning)
+- Jack Reacher - Tripwire
 
 ## The 7 habits of highly effective people
     Be Proactive: Take control of your actions and choices, rather than reacting to external circumstances.

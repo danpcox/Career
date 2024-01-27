@@ -22,6 +22,7 @@
 - The Culture is so important, it needs to embody (at every level): risk taking, autonomy, accountability, recognition, and incentivization
 - Never hire the brilliant jerk. The team and culture matter more than someone brought on to help as an expert
 - The front-line manager is one of the hardest roles, they are leading the charge and coding / architecting.  I have great respect for this position
+- Apathy is just as important as empathy. Know when to be invested, but just as importantly, know when not to
 
 
 ### Technical Philosophies

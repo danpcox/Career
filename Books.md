@@ -14,11 +14,16 @@
 
 ## Books I read in 2024
 - Grit - Angela Duckworth
+- The Last Lecture - Randy Pausch
 - The never wars - David Pedreira
 - Who moved my cheese - Spencer Johnson
+- Jack Reacher - Tripwire
+- Jack Reacher - Die Trying
+- Jack Reacher - The Midnight Line
 
 ## Books I am currently Reading (fun or learning)
-- Jack Reacher - Tripwire
+- Jack Reacher - Past Tense
+
 
 ## The 7 habits of highly effective people
     Be Proactive: Take control of your actions and choices, rather than reacting to external circumstances.

@@ -33,6 +33,8 @@
 - Front end development is just as important as back-end. At Amazon I was looked down on because I liked front end, if the UI isn't working you won't get any RPS for your backend!
 - Sometimes it makes sense to build your own, often it doesn't. Don't assume if you don't build it it won't be quality, but do the leg-work to verify it is solid
 - Take time to learn, it doesn't need to be a new language, but with AI developing at astonishing rates you can't afford to be left behind
+- The engineering strategy needs to be as closely aligned with the product strategy as possible, otherwise conflict will arise
+
 
 ### Quotes I reference
 - “A good plan, violently executed now, is better than a perfect plan next week” — George Patton

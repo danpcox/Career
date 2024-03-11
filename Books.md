@@ -21,9 +21,10 @@
 - Jack Reacher - Die Trying
 - Jack Reacher - The Midnight Line
 - Jack Reacher - Past Tense
+- Jack Reacher - Make Me
 
 ## Books I am currently Reading (fun or learning)
-- Jack Reacher - Make Me
+- 
 
 
 ## The 7 habits of highly effective people

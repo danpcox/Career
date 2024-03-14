@@ -24,7 +24,7 @@
 - Jack Reacher - Make Me
 
 ## Books I am currently Reading (fun or learning)
-- 
+- Jack Reacher - Blue Moon
 
 
 ## The 7 habits of highly effective people

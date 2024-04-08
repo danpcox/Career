@@ -22,9 +22,11 @@
 - Jack Reacher - The Midnight Line
 - Jack Reacher - Past Tense
 - Jack Reacher - Make Me
-
-## Books I am currently Reading (fun or learning)
 - Jack Reacher - Blue Moon
+- Jack Reacher - Running Blind
+-  
+## Books I am currently Reading (fun or learning)
+- Jack Reacher - Better Off Dead
 
 
 ## The 7 habits of highly effective people

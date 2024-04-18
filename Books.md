@@ -24,9 +24,10 @@
 - Jack Reacher - Make Me
 - Jack Reacher - Blue Moon
 - Jack Reacher - Running Blind
-- Jack Reacher - Better Off Dead 
-## Books I am currently Reading (fun or learning)
+- Jack Reacher - Better Off Dead
 - Deep Work - Cal Newport
+## Books I am currently Reading (fun or learning)
+- Atomic Habits - James Clear
 
 
 ## The 7 habits of highly effective people

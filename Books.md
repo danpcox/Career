@@ -26,8 +26,10 @@
 - Jack Reacher - Running Blind
 - Jack Reacher - Better Off Dead
 - Deep Work - Cal Newport
-## Books I am currently Reading (fun or learning)
 - Atomic Habits - James Clear
+ 
+## Books I am currently Reading (fun or learning)
+- Outdoor Order Inner Calm - Gretchen Rubin
 
 
 ## The 7 habits of highly effective people

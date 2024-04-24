@@ -27,9 +27,10 @@
 - Jack Reacher - Better Off Dead
 - Deep Work - Cal Newport
 - Atomic Habits - James Clear
+- Twelve and a Half - Gary Vaynerchuk
  
 ## Books I am currently Reading (fun or learning)
-- Outdoor Order Inner Calm - Gretchen Rubin
+- David and Goliath - Malcom Gladwell
 
 
 ## The 7 habits of highly effective people

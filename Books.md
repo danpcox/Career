@@ -28,9 +28,10 @@
 - Deep Work - Cal Newport
 - Atomic Habits - James Clear
 - Twelve and a Half - Gary Vaynerchuk
+- David and Goliath - Malcom Gladwell
  
 ## Books I am currently Reading (fun or learning)
-- David and Goliath - Malcom Gladwell
+- 
 
 
 ## The 7 habits of highly effective people

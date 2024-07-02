@@ -34,7 +34,8 @@
 - David and Goliath - Malcom Gladwell
  
 ## Books I am currently Reading (fun or learning)
-- 
+- 1491
+- Our Final Invention
 
 
 ## The 7 habits of highly effective people

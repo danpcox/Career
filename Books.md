@@ -32,9 +32,9 @@
 - Atomic Habits - James Clear
 - Twelve and a Half - Gary Vaynerchuk
 - David and Goliath - Malcom Gladwell
+- The subtle art of not giving a fuck - Mark Manson
  
 ## Books I am currently Reading (fun or learning)
-- The subtle art of not giving a fuck - Mark Manson
 - Our Final Invention
 - 
 

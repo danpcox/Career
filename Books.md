@@ -33,10 +33,10 @@
 - Twelve and a Half - Gary Vaynerchuk
 - David and Goliath - Malcom Gladwell
 - The subtle art of not giving a fuck - Mark Manson
+- Be Useful - Arnold Schwarzenegger
  
 ## Books I am currently Reading (fun or learning)
-- Our Final Invention
-- Be Useful - Arnold Schwarzenegger
+- Our Final Invention - James Barrat
 
 
 ## The 7 habits of highly effective people

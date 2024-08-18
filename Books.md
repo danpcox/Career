@@ -34,9 +34,11 @@
 - David and Goliath - Malcom Gladwell
 - The subtle art of not giving a fuck - Mark Manson
 - Be Useful - Arnold Schwarzenegger
- 
-## Books I am currently Reading (fun or learning)
 - Our Final Invention - James Barrat
+-  
+
+## Books I am currently Reading (fun or learning)
+- The Lean Starup - Eric Ries
 
 
 ## The 7 habits of highly effective people

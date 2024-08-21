@@ -1,10 +1,10 @@
 # Books
 ## Books for leadership
-- The one minute manager
+- The one minute manager - Ken Blanchard
 - Grit - Angela Duckworth
 - Drive - Daniel Pink
 - Who moved my cheese - Spencer Johnson
-- The art of war - Sun Tau
+- The art of war - Sun Tsu
 - The 5 dysfunctions of a team - Patrick Lencioni
 - Good to Great: Why some companies make the leap and others don't - James C. Collins
 - Thinking, Fast and slow - Daniel Kahneman
@@ -13,7 +13,7 @@
 - Deep Work - Cal Newport
 - Atomic Habits - James Clear
 - David and Goliath - Malcom Gladwell
-- 
+- The Lean Starup - Eric Ries
 
 ## Books I read in 2024
 - Grit - Angela Duckworth
@@ -35,10 +35,11 @@
 - The subtle art of not giving a fuck - Mark Manson
 - Be Useful - Arnold Schwarzenegger
 - Our Final Invention - James Barrat
--  
+- The Lean Starup - Eric Ries
+-   
 
 ## Books I am currently Reading (fun or learning)
-- The Lean Starup - Eric Ries
+- 
 
 
 ## The 7 habits of highly effective people

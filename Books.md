@@ -36,7 +36,7 @@
 - Be Useful - Arnold Schwarzenegger
 - Our Final Invention - James Barrat
 - The Lean Starup - Eric Ries
--   
+- Network Effect - Martha Wells
 
 ## Books I am currently Reading (fun or learning)
 - 

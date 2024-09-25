@@ -39,7 +39,7 @@
 - Network Effect - Martha Wells
 
 ## Books I am currently Reading (fun or learning)
-- 
+- System Collapse - Martha Wells
 
 
 ## The 7 habits of highly effective people

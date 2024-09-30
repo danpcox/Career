@@ -37,9 +37,10 @@
 - Our Final Invention - James Barrat
 - The Lean Starup - Eric Ries
 - Network Effect - Martha Wells
+- System Collapse - Martha Wells
 
 ## Books I am currently Reading (fun or learning)
-- System Collapse - Martha Wells
+- 
 
 
 ## The 7 habits of highly effective people

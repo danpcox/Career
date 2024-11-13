@@ -38,7 +38,9 @@
 - The Lean Starup - Eric Ries
 - Network Effect - Martha Wells
 - System Collapse - Martha Wells
-
+- Percy Jackson - The Lightning Thief
+- Percy Jackson - The sea of Monsters
+- 
 ## Books I am currently Reading (fun or learning)
 - 
 

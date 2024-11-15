@@ -42,7 +42,7 @@
 - Percy Jackson - The sea of Monsters
 - 
 ## Books I am currently Reading (fun or learning)
-- 
+- Jack Reacher - Without Fail
 
 
 ## The 7 habits of highly effective people

@@ -40,9 +40,11 @@
 - System Collapse - Martha Wells
 - Percy Jackson - The Lightning Thief
 - Percy Jackson - The sea of Monsters
-- 
-## Books I am currently Reading (fun or learning)
 - Jack Reacher - Without Fail
+- Percy Jackson - The Titan's Curse
+
+## Books I am currently Reading (fun or learning)
+- Jack Reacher - Echo Burning
 
 
 ## The 7 habits of highly effective people

@@ -42,9 +42,10 @@
 - Percy Jackson - The sea of Monsters
 - Jack Reacher - Without Fail
 - Percy Jackson - The Titan's Curse
+- Jack Reacher - Persuader
 
 ## Books I am currently Reading (fun or learning)
-- Jack Reacher - Echo Burning
+- Percy Jackson - The Battle of the Labrynth
 
 
 ## The 7 habits of highly effective people

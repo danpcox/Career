@@ -46,6 +46,14 @@
 
 ## Books I am currently Reading (fun or learning)
 - Percy Jackson - The Battle of the Labrynth
+- Percy Jackson - The Last Olympian
+- Percy Jackson - The chalice of the gods
+- Percy Jackson - Wrath of the triple goddess
+- Heroes of Olympus - The lost Hero
+- Heroes of Olympus - The son of neptune
+- Heroes of Olympus - The mark of Athena
+- Heroes of Olympus - The house of Hades
+- Heroes of Olympus - The blood of Olympus
 
 
 ## The 7 habits of highly effective people
